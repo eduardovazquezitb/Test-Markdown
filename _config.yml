@@ -1,0 +1,5 @@
+name: Edu's Test
+description: Markdown's tests
+url: "http://edustest.github.io"
+markdown: kramdown
+highlighter: rouge
