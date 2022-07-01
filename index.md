@@ -7,6 +7,6 @@ title: Yarr!
 
 [TEST](./test.html)
 
-<source src="horse.mp3" type="audio/mpeg"></source>
+<source src="horse.mp3" type="audio/mpeg">HORSEY!</source>
 
 HELLO
